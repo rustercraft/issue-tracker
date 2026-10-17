@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Describe this issue template's purpose here.
-title: ''
+title: 'BUG REPORT '
 labels: ''
 assignees: ''
 
@@ -37,12 +37,21 @@ Explain what should have happened.
 List any mods that might be involved.
 If using Sinytra Connector, include its version.
 
-## Logs or crash report
-Link your latest.log or crash report, or attach the file.
-You can upload logs to https://mclo.gs and paste the link here.
+## 📋 REQUIRED: Attach your latest.log
+**PLEASE ATTACH YOUR `latest.log` FILE.**
+If Minecraft crashed, **include the crash report too.**
 
-## Screenshots or video
-Add screenshots or a short video if they help show the problem.
+**Upload logs to https://mclo.gs and paste the link below**, or attach the files directly to this report.
+
+**Log / crash report link:**
+
+## 📸 Screenshots or video
+**Add screenshots or a short video if they help show the problem.**
+
+- **UPLOAD PICTURES TO:** https://postimages.org/
+- **UPLOAD VIDEOS TO:** https://savedly.net/videos
+
+**Screenshot / video links:**
 
 ## Additional information
 Include anything else that could help investigate the issue.
